@@ -100,9 +100,26 @@ ignore:
 # theme: landscape
 theme: frame
 
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
   repo: https://github.com/BennyPark/BennyPark.github.io.git
   branch: main
+
+# color mode: default / classic / dark
+color_mode: classic
+
+# header
+site_brand_name: Frame.
+
+logo_image:
+  enable: true
+  image_path: /logo.png # path to your logo image
+
+menu:
+  Home: /
+  Archive: /archives/
+  Gallery: /categories/gallery/
+  About: /about/
