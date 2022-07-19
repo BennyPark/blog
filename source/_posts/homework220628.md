@@ -1,3 +1,16 @@
+---
+title: "homework220628"
+output:  
+    html_document:    
+        toc: true
+        toc_float: true
+        keep_md: true
+        categories: homework
+date: '2022-06-28'
+---
+# HOMEWORK PYTHON
+<!-- more -->
+
 ```python
 def hello(): #hello 함수를 만듦
   print("hello, world!") 

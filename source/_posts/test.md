@@ -3,8 +3,11 @@ title: "데이터 불러오고 경로 찾기"
 output:
   html_document:
     keep_md: true
+categories: TEST
 date: '2022-06-20'
 ---
+# TEST
+<!-- more -->
 
 
 
